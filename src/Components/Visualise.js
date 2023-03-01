@@ -71,7 +71,7 @@ const Visualise = (props) => {
       name: "Average Cadence",
       unit: "rpm",
       color: "#6b89d3",
-      decimalPoint: 0,
+      decimalPoint: 2,
       metric: "averageCadence",
       parameter: "cadence"
     },
